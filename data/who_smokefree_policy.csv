@@ -1,0 +1,223 @@
+indicator,iso3,year,value,valuetext,country
+P3_universities,LBN,2007,,Yes,Lebanon
+P3_universities,LBN,2008,,Yes,Lebanon
+P3_universities,LBN,2010,,Yes,Lebanon
+P3_universities,LBN,2012,,Yes,Lebanon
+P3_universities,LBN,2014,,Yes,Lebanon
+P3_universities,LBN,2016,,Yes,Lebanon
+P3_universities,LBN,2018,,Yes,Lebanon
+P3_universities,LBN,2020,,Yes,Lebanon
+P3_universities,LBN,2022,,Yes,Lebanon
+P6_restaurants,LBN,2007,,No,Lebanon
+P6_restaurants,LBN,2008,,No,Lebanon
+P6_restaurants,LBN,2010,,No,Lebanon
+P6_restaurants,LBN,2012,,Yes,Lebanon
+P6_restaurants,LBN,2014,,Yes,Lebanon
+P6_restaurants,LBN,2016,,Yes,Lebanon
+P6_restaurants,LBN,2018,,Yes,Lebanon
+P6_restaurants,LBN,2020,,Yes,Lebanon
+P6_restaurants,LBN,2022,,Yes,Lebanon
+P7_pubs,LBN,2007,,No,Lebanon
+P7_pubs,LBN,2008,,No,Lebanon
+P7_pubs,LBN,2010,,No,Lebanon
+P7_pubs,LBN,2012,,Yes,Lebanon
+P7_pubs,LBN,2014,,Yes,Lebanon
+P7_pubs,LBN,2016,,Yes,Lebanon
+P7_pubs,LBN,2018,,Yes,Lebanon
+P7_pubs,LBN,2020,,Yes,Lebanon
+P7_pubs,LBN,2022,,Yes,Lebanon
+P_compl_all_sfe,AFG,2022,,. . .,Afghanistan
+P_compl_all_sfe,ALB,2022,10.0,10,Albania
+P_compl_all_sfe,DZA,2022,3.0,3,Algeria
+P_compl_all_sfe,AND,2022,10.0,10,Andorra
+P_compl_all_sfe,AGO,2022,3.0,3,Angola
+P_compl_all_sfe,ATG,2022,7.0,7,Antigua and Barbuda
+P_compl_all_sfe,ARG,2022,8.0,8,Argentina
+P_compl_all_sfe,ARM,2022,7.0,7,Armenia
+P_compl_all_sfe,AUS,2022,,. . .,Australia
+P_compl_all_sfe,AUT,2022,10.0,10,Austria
+P_compl_all_sfe,AZE,2022,5.0,5,Azerbaijan
+P_compl_all_sfe,BHS,2022,,Not applicable,Bahamas
+P_compl_all_sfe,BHR,2022,,Not applicable,Bahrain
+P_compl_all_sfe,BGD,2022,5.0,5,Bangladesh
+P_compl_all_sfe,BRB,2022,10.0,10,Barbados
+P_compl_all_sfe,BLR,2022,8.0,8,Belarus
+P_compl_all_sfe,BEL,2022,8.0,8,Belgium
+P_compl_all_sfe,BLZ,2022,,Not applicable,Belize
+P_compl_all_sfe,BEN,2022,6.0,6,Benin
+P_compl_all_sfe,BTN,2022,,Not applicable,Bhutan
+P_compl_all_sfe,BOL,2022,0.0,0,Bolivia
+P_compl_all_sfe,BIH,2022,,Not applicable,Bosnia and Herzegovina
+P_compl_all_sfe,BWA,2022,,Not applicable,Botswana
+P_compl_all_sfe,BRA,2022,8.0,8,Brazil
+P_compl_all_sfe,BRN,2022,,. . .,Brunei Darussalam
+P_compl_all_sfe,BGR,2022,4.0,4,Bulgaria
+P_compl_all_sfe,BFA,2022,3.0,3,Burkina Faso
+P_compl_all_sfe,BDI,2022,2.0,2,Burundi
+P_compl_all_sfe,CPV,2022,,. . .,Cabo Verde
+P_compl_all_sfe,KHM,2022,5.0,5,Cambodia
+P_compl_all_sfe,CMR,2022,,. . .,Cameroon
+P_compl_all_sfe,CAN,2022,10.0,10,Canada
+P_compl_all_sfe,CAF,2022,,Not applicable,Central African Republic
+P_compl_all_sfe,TCD,2022,5.0,5,Chad
+P_compl_all_sfe,CHL,2022,8.0,8,Chile
+P_compl_all_sfe,CHN,2022,6.0,6,China
+P_compl_all_sfe,COL,2022,8.0,8,Colombia
+P_compl_all_sfe,COM,2022,8.0,8,Comoros
+P_compl_all_sfe,COG,2022,2.0,2,Congo
+P_compl_all_sfe,COK,2022,,. . .,Cook Islands
+P_compl_all_sfe,CRI,2022,8.0,8,Costa Rica
+P_compl_all_sfe,HRV,2022,5.0,5,Croatia
+P_compl_all_sfe,CUB,2022,5.0,5,Cuba
+P_compl_all_sfe,CYP,2022,7.0,7,Cyprus
+P_compl_all_sfe,CZE,2022,8.0,8,Czechia
+P_compl_all_sfe,CIV,2022,,Not applicable,Côte d'Ivoire
+P_compl_all_sfe,PRK,2022,10.0,10,DPR Korea
+P_compl_all_sfe,COD,2022,1.0,1,DR Congo
+P_compl_all_sfe,DNK,2022,10.0,10,Denmark
+P_compl_all_sfe,DJI,2022,,. . .,Djibouti
+P_compl_all_sfe,DMA,2022,,Not applicable,Dominica
+P_compl_all_sfe,DOM,2022,4.0,4,Dominican Republic
+P_compl_all_sfe,ECU,2022,5.0,5,Ecuador
+P_compl_all_sfe,EGY,2022,3.0,3,Egypt
+P_compl_all_sfe,SLV,2022,5.0,5,El Salvador
+P_compl_all_sfe,GNQ,2022,,Not applicable,Equatorial Guinea
+P_compl_all_sfe,ERI,2022,,Not applicable,Eritrea
+P_compl_all_sfe,EST,2022,7.0,7,Estonia
+P_compl_all_sfe,SWZ,2022,,Not applicable,Eswatini
+P_compl_all_sfe,ETH,2022,6.0,6,Ethiopia
+P_compl_all_sfe,FJI,2022,3.0,3,Fiji
+P_compl_all_sfe,FIN,2022,10.0,10,Finland
+P_compl_all_sfe,FRA,2022,7.0,7,France
+P_compl_all_sfe,GAB,2022,4.0,4,Gabon
+P_compl_all_sfe,GMB,2022,1.0,1,Gambia
+P_compl_all_sfe,GEO,2022,10.0,10,Georgia
+P_compl_all_sfe,DEU,2022,,Not applicable,Germany
+P_compl_all_sfe,GHA,2022,,Not applicable,Ghana
+P_compl_all_sfe,GRC,2022,,. . .,Greece
+P_compl_all_sfe,GRD,2022,,Not applicable,Grenada
+P_compl_all_sfe,GTM,2022,5.0,5,Guatemala
+P_compl_all_sfe,GIN,2022,,. . .,Guinea
+P_compl_all_sfe,GNB,2022,,Not applicable,Guinea-Bissau
+P_compl_all_sfe,GUY,2022,3.0,3,Guyana
+P_compl_all_sfe,HTI,2022,,Not applicable,Haiti
+P_compl_all_sfe,HND,2022,7.0,7,Honduras
+P_compl_all_sfe,HUN,2022,,. . .,Hungary
+P_compl_all_sfe,ISL,2022,10.0,10,Iceland
+P_compl_all_sfe,IND,2022,4.0,4,India
+P_compl_all_sfe,IDN,2022,4.0,4,Indonesia
+P_compl_all_sfe,IRN,2022,10.0,10,Iran
+P_compl_all_sfe,IRQ,2022,4.0,4,Iraq
+P_compl_all_sfe,IRL,2022,9.0,9,Ireland
+P_compl_all_sfe,ISR,2022,5.0,5,Israel
+P_compl_all_sfe,ITA,2022,,Not applicable,Italy
+P_compl_all_sfe,JAM,2022,5.0,5,Jamaica
+P_compl_all_sfe,JPN,2022,10.0,10,Japan
+P_compl_all_sfe,JOR,2022,0.0,0,Jordan
+P_compl_all_sfe,KAZ,2022,5.0,5,Kazakhstan
+P_compl_all_sfe,KEN,2022,,Not applicable,Kenya
+P_compl_all_sfe,KIR,2022,5.0,5,Kiribati
+P_compl_all_sfe,KWT,2022,,. . .,Kuwait
+P_compl_all_sfe,KGZ,2022,,. . .,Kyrgyzstan
+P_compl_all_sfe,LAO,2022,7.0,7,Lao PDR
+P_compl_all_sfe,LVA,2022,8.0,8,Latvia
+P_compl_all_sfe,LBN,2022,3.0,3,Lebanon
+P_compl_all_sfe,LSO,2022,,. . .,Lesotho
+P_compl_all_sfe,LBR,2022,,Not applicable,Liberia
+P_compl_all_sfe,LBY,2022,2.0,2,Libya
+P_compl_all_sfe,LTU,2022,,. . .,Lithuania
+P_compl_all_sfe,LUX,2022,10.0,10,Luxembourg
+P_compl_all_sfe,MDG,2022,5.0,5,Madagascar
+P_compl_all_sfe,MWI,2022,,Not applicable,Malawi
+P_compl_all_sfe,MYS,2022,,Not applicable,Malaysia
+P_compl_all_sfe,MDV,2022,1.0,1,Maldives
+P_compl_all_sfe,MLI,2022,,Not applicable,Mali
+P_compl_all_sfe,MLT,2022,,. . .,Malta
+P_compl_all_sfe,MHL,2022,,. . .,Marshall Islands
+P_compl_all_sfe,MRT,2022,3.0,3,Mauritania
+P_compl_all_sfe,MUS,2022,5.0,5,Mauritius
+P_compl_all_sfe,MEX,2022,8.0,8,Mexico
+P_compl_all_sfe,FSM,2022,,. . .,Micronesia
+P_compl_all_sfe,MDA,2022,10.0,10,Moldova
+P_compl_all_sfe,MCO,2022,10.0,10,Monaco
+P_compl_all_sfe,MNG,2022,5.0,5,Mongolia
+P_compl_all_sfe,MNE,2022,,. . .,Montenegro
+P_compl_all_sfe,MAR,2022,5.0,5,Morocco
+P_compl_all_sfe,MOZ,2022,4.0,4,Mozambique
+P_compl_all_sfe,MMR,2022,5.0,5,Myanmar
+P_compl_all_sfe,NAM,2022,,. . .,Namibia
+P_compl_all_sfe,NRU,2022,5.0,5,Nauru
+P_compl_all_sfe,NPL,2022,6.0,6,Nepal
+P_compl_all_sfe,NLD,2022,8.0,8,Netherlands
+P_compl_all_sfe,NZL,2022,10.0,10,New Zealand
+P_compl_all_sfe,NIC,2022,7.0,7,Nicaragua
+P_compl_all_sfe,NER,2022,0.0,0,Niger
+P_compl_all_sfe,NGA,2022,1.0,1,Nigeria
+P_compl_all_sfe,NIU,2022,,. . .,Niue
+P_compl_all_sfe,MKD,2022,,. . .,North Macedonia
+P_compl_all_sfe,NOR,2022,10.0,10,Norway
+P_compl_all_sfe,OMN,2022,,Not applicable,Oman
+P_compl_all_sfe,PAK,2022,,. . .,Pakistan
+P_compl_all_sfe,PLW,2022,10.0,10,Palau
+P_compl_all_sfe,PSE,2022,0.0,0,Palestine
+P_compl_all_sfe,PAN,2022,10.0,10,Panama
+P_compl_all_sfe,PNG,2022,,. . .,Papua New Guinea
+P_compl_all_sfe,PRY,2022,8.0,8,Paraguay
+P_compl_all_sfe,PER,2022,8.0,8,Peru
+P_compl_all_sfe,PHL,2022,7.0,7,Philippines
+P_compl_all_sfe,POL,2022,6.0,6,Poland
+P_compl_all_sfe,PRT,2022,7.0,7,Portugal
+P_compl_all_sfe,QAT,2022,,. . .,Qatar
+P_compl_all_sfe,ROU,2022,8.0,8,Romania
+P_compl_all_sfe,RUS,2022,10.0,10,Russia
+P_compl_all_sfe,RWA,2022,,Not applicable,Rwanda
+P_compl_all_sfe,KNA,2022,,Not applicable,Saint Kitts and Nevis
+P_compl_all_sfe,LCA,2022,7.0,7,Saint Lucia
+P_compl_all_sfe,VCT,2022,,Not applicable,Saint Vincent and the Grenadines
+P_compl_all_sfe,WSM,2022,7.0,7,Samoa
+P_compl_all_sfe,SMR,2022,,. . .,San Marino
+P_compl_all_sfe,STP,2022,,Not applicable,Sao Tome and Principe
+P_compl_all_sfe,SAU,2022,,. . .,Saudi Arabia
+P_compl_all_sfe,SEN,2022,4.0,4,Senegal
+P_compl_all_sfe,SRB,2022,,. . .,Serbia
+P_compl_all_sfe,SYC,2022,10.0,10,Seychelles
+P_compl_all_sfe,SLE,2022,,Not applicable,Sierra Leone
+P_compl_all_sfe,SGP,2022,8.0,8,Singapore
+P_compl_all_sfe,SVK,2022,6.0,6,Slovakia
+P_compl_all_sfe,SVN,2022,8.0,8,Slovenia
+P_compl_all_sfe,SLB,2022,,. . .,Solomon Islands
+P_compl_all_sfe,SOM,2022,,Not applicable,Somalia
+P_compl_all_sfe,ZAF,2022,,Not applicable,South Africa
+P_compl_all_sfe,KOR,2022,9.0,9,South Korea
+P_compl_all_sfe,SSD,2022,,Not applicable,South Sudan
+P_compl_all_sfe,ESP,2022,9.0,9,Spain
+P_compl_all_sfe,LKA,2022,6.0,6,Sri Lanka
+P_compl_all_sfe,SDN,2022,,Not applicable,Sudan
+P_compl_all_sfe,SUR,2022,3.0,3,Suriname
+P_compl_all_sfe,SWE,2022,,Not applicable,Sweden
+P_compl_all_sfe,CHE,2022,,Not applicable,Switzerland
+P_compl_all_sfe,SYR,2022,,. . .,Syria
+P_compl_all_sfe,TJK,2022,,. . .,Tajikistan
+P_compl_all_sfe,TZA,2022,,Not applicable,Tanzania
+P_compl_all_sfe,THA,2022,6.0,6,Thailand
+P_compl_all_sfe,TLS,2022,8.0,8,Timor-Leste
+P_compl_all_sfe,TGO,2022,7.0,7,Togo
+P_compl_all_sfe,TON,2022,5.0,5,Tonga
+P_compl_all_sfe,TTO,2022,5.0,5,Trinidad and Tobago
+P_compl_all_sfe,TUN,2022,,Not applicable,Tunisia
+P_compl_all_sfe,TKM,2022,10.0,10,Turkmenistan
+P_compl_all_sfe,TUV,2022,,. . .,Tuvalu
+P_compl_all_sfe,TUR,2022,,. . .,Türkiye
+P_compl_all_sfe,UGA,2022,3.0,3,Uganda
+P_compl_all_sfe,UKR,2022,,. . .,Ukraine
+P_compl_all_sfe,ARE,2022,10.0,10,United Arab Emirates
+P_compl_all_sfe,GBR,2022,10.0,10,United Kingdom
+P_compl_all_sfe,USA,2022,,. . .,United States
+P_compl_all_sfe,URY,2022,10.0,10,Uruguay
+P_compl_all_sfe,UZB,2022,4.0,4,Uzbekistan
+P_compl_all_sfe,VUT,2022,,Not applicable,Vanuatu
+P_compl_all_sfe,VEN,2022,8.0,8,Venezuela
+P_compl_all_sfe,VNM,2022,5.0,5,Viet Nam
+P_compl_all_sfe,YEM,2022,0.0,0,Yemen
+P_compl_all_sfe,ZMB,2022,,. . .,Zambia
+P_compl_all_sfe,ZWE,2022,,. . .,Zimbabwe

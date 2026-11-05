@@ -1,0 +1,18 @@
+measure,location,year,value,unit,note
+tobacco_attributable_deaths,Lebanon,1990,1690,deaths,"IHME GBD 2023, risk = tobacco (all), all causes, all ages, both sexes"
+tobacco_attributable_deaths,Lebanon,2023,5325,deaths,"IHME GBD 2023, risk = tobacco (all), all causes, all ages, both sexes"
+tobacco_attributable_death_rate_age_std,Lebanon,1990,75,per 100000,"age-standardised, all causes, both sexes"
+tobacco_attributable_death_rate_age_std,Lebanon,2023,88,per 100000,"age-standardised, all causes, both sexes"
+tobacco_attributable_death_rate_age_std,Global,1990,151,per 100000,"age-standardised, all causes, both sexes"
+tobacco_attributable_death_rate_age_std,Global,2023,81,per 100000,"age-standardised, all causes, both sexes"
+share_of_all_deaths_attributable_to_tobacco,Lebanon,1990,11.8,percent,all causes
+share_of_all_deaths_attributable_to_tobacco,Lebanon,2023,17.5,percent,all causes
+tobacco_attributable_dalys,Lebanon,2023,166000,DALYs,rounded
+deaths_by_cause,Lebanon,2023,1350,deaths,Ischemic heart disease
+deaths_by_cause,Lebanon,2023,1261,deaths,"Tracheal, bronchus and lung cancer"
+deaths_by_cause,Lebanon,2023,613,deaths,Chronic obstructive pulmonary disease
+deaths_by_cause,Lebanon,2023,221,deaths,Ischemic stroke
+deaths_by_age,Lebanon,2023,523,deaths,Ages 15-49
+deaths_by_age,Lebanon,2023,2067,deaths,Ages 50-69
+deaths_by_age,Lebanon,2023,2698,deaths,Ages 70+
+male_share_of_deaths,Lebanon,2023,69,percent,"all causes, all ages; approximate"

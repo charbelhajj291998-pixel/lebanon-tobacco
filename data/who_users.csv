@@ -1,0 +1,199 @@
+indicator,sex,iso3,year,users,country
+cigarette_smokers,Both sexes,EMR,2000,45854000,Eastern Mediterranean
+cigarette_smokers,Both sexes,EMR,2005,49879000,Eastern Mediterranean
+cigarette_smokers,Both sexes,EMR,2007,51742000,Eastern Mediterranean
+cigarette_smokers,Both sexes,EMR,2010,54291000,Eastern Mediterranean
+cigarette_smokers,Both sexes,EMR,2015,58291000,Eastern Mediterranean
+cigarette_smokers,Both sexes,EMR,2020,61873000,Eastern Mediterranean
+cigarette_smokers,Both sexes,EMR,2022,62181000,Eastern Mediterranean
+cigarette_smokers,Both sexes,EMR,2023,64917000,Eastern Mediterranean
+cigarette_smokers,Both sexes,EMR,2024,66075000,Eastern Mediterranean
+cigarette_smokers,Both sexes,EMR,2025,67132000,Eastern Mediterranean
+cigarette_smokers,Both sexes,EMR,2030,72974000,Eastern Mediterranean
+cigarette_smokers,Men,EMR,2000,41865000,Eastern Mediterranean
+cigarette_smokers,Men,EMR,2005,46086000,Eastern Mediterranean
+cigarette_smokers,Men,EMR,2007,47979000,Eastern Mediterranean
+cigarette_smokers,Men,EMR,2010,50608000,Eastern Mediterranean
+cigarette_smokers,Men,EMR,2015,54663000,Eastern Mediterranean
+cigarette_smokers,Men,EMR,2020,58430000,Eastern Mediterranean
+cigarette_smokers,Men,EMR,2022,58746000,Eastern Mediterranean
+cigarette_smokers,Men,EMR,2023,61481000,Eastern Mediterranean
+cigarette_smokers,Men,EMR,2024,62620000,Eastern Mediterranean
+cigarette_smokers,Men,EMR,2025,63675000,Eastern Mediterranean
+cigarette_smokers,Men,EMR,2030,69416000,Eastern Mediterranean
+cigarette_smokers,Women,EMR,2000,3989000,Eastern Mediterranean
+cigarette_smokers,Women,EMR,2005,3793000,Eastern Mediterranean
+cigarette_smokers,Women,EMR,2007,3762000,Eastern Mediterranean
+cigarette_smokers,Women,EMR,2010,3683000,Eastern Mediterranean
+cigarette_smokers,Women,EMR,2015,3628000,Eastern Mediterranean
+cigarette_smokers,Women,EMR,2020,3443000,Eastern Mediterranean
+cigarette_smokers,Women,EMR,2022,3435000,Eastern Mediterranean
+cigarette_smokers,Women,EMR,2023,3437000,Eastern Mediterranean
+cigarette_smokers,Women,EMR,2024,3456000,Eastern Mediterranean
+cigarette_smokers,Women,EMR,2025,3457000,Eastern Mediterranean
+cigarette_smokers,Women,EMR,2030,3557000,Eastern Mediterranean
+cigarette_smokers,Both sexes,GLOBAL,2000,990510000,World
+cigarette_smokers,Both sexes,GLOBAL,2005,961602000,World
+cigarette_smokers,Both sexes,GLOBAL,2007,950017000,World
+cigarette_smokers,Both sexes,GLOBAL,2010,933083000,World
+cigarette_smokers,Both sexes,GLOBAL,2015,904543000,World
+cigarette_smokers,Both sexes,GLOBAL,2020,873706000,World
+cigarette_smokers,Both sexes,GLOBAL,2022,858139000,World
+cigarette_smokers,Both sexes,GLOBAL,2023,855074000,World
+cigarette_smokers,Both sexes,GLOBAL,2024,849310000,World
+cigarette_smokers,Both sexes,GLOBAL,2025,844751000,World
+cigarette_smokers,Both sexes,GLOBAL,2030,816212000,World
+cigarette_smokers,Men,GLOBAL,2000,813259000,World
+cigarette_smokers,Men,GLOBAL,2005,800467000,World
+cigarette_smokers,Men,GLOBAL,2007,794584000,World
+cigarette_smokers,Men,GLOBAL,2010,785860000,World
+cigarette_smokers,Men,GLOBAL,2015,769838000,World
+cigarette_smokers,Men,GLOBAL,2020,750058000,World
+cigarette_smokers,Men,GLOBAL,2022,738862000,World
+cigarette_smokers,Men,GLOBAL,2023,737673000,World
+cigarette_smokers,Men,GLOBAL,2024,733755000,World
+cigarette_smokers,Men,GLOBAL,2025,730904000,World
+cigarette_smokers,Men,GLOBAL,2030,711109000,World
+cigarette_smokers,Women,GLOBAL,2000,177251000,World
+cigarette_smokers,Women,GLOBAL,2005,161135000,World
+cigarette_smokers,Women,GLOBAL,2007,155434000,World
+cigarette_smokers,Women,GLOBAL,2010,147223000,World
+cigarette_smokers,Women,GLOBAL,2015,134705000,World
+cigarette_smokers,Women,GLOBAL,2020,123648000,World
+cigarette_smokers,Women,GLOBAL,2022,119277000,World
+cigarette_smokers,Women,GLOBAL,2023,117400000,World
+cigarette_smokers,Women,GLOBAL,2024,115555000,World
+cigarette_smokers,Women,GLOBAL,2025,113848000,World
+cigarette_smokers,Women,GLOBAL,2030,105103000,World
+cigarette_smokers,Both sexes,LBN,2000,671000,Lebanon
+cigarette_smokers,Both sexes,LBN,2005,831000,Lebanon
+cigarette_smokers,Both sexes,LBN,2007,911000,Lebanon
+cigarette_smokers,Both sexes,LBN,2010,1024000,Lebanon
+cigarette_smokers,Both sexes,LBN,2015,1465000,Lebanon
+cigarette_smokers,Both sexes,LBN,2020,1362000,Lebanon
+cigarette_smokers,Both sexes,LBN,2022,1431000,Lebanon
+cigarette_smokers,Both sexes,LBN,2023,1475000,Lebanon
+cigarette_smokers,Both sexes,LBN,2024,1528000,Lebanon
+cigarette_smokers,Both sexes,LBN,2025,1575000,Lebanon
+cigarette_smokers,Both sexes,LBN,2030,1867000,Lebanon
+cigarette_smokers,Men,LBN,2000,425000,Lebanon
+cigarette_smokers,Men,LBN,2005,526000,Lebanon
+cigarette_smokers,Men,LBN,2007,577000,Lebanon
+cigarette_smokers,Men,LBN,2010,648000,Lebanon
+cigarette_smokers,Men,LBN,2015,924000,Lebanon
+cigarette_smokers,Men,LBN,2020,831000,Lebanon
+cigarette_smokers,Men,LBN,2022,874000,Lebanon
+cigarette_smokers,Men,LBN,2023,901000,Lebanon
+cigarette_smokers,Men,LBN,2024,932000,Lebanon
+cigarette_smokers,Men,LBN,2025,963000,Lebanon
+cigarette_smokers,Men,LBN,2030,1149000,Lebanon
+cigarette_smokers,Women,LBN,2000,246000,Lebanon
+cigarette_smokers,Women,LBN,2005,305000,Lebanon
+cigarette_smokers,Women,LBN,2007,334000,Lebanon
+cigarette_smokers,Women,LBN,2010,376000,Lebanon
+cigarette_smokers,Women,LBN,2015,540000,Lebanon
+cigarette_smokers,Women,LBN,2020,531000,Lebanon
+cigarette_smokers,Women,LBN,2022,557000,Lebanon
+cigarette_smokers,Women,LBN,2023,575000,Lebanon
+cigarette_smokers,Women,LBN,2024,596000,Lebanon
+cigarette_smokers,Women,LBN,2025,612000,Lebanon
+cigarette_smokers,Women,LBN,2030,719000,Lebanon
+tobacco_users,Both sexes,EMR,2000,74087000,Eastern Mediterranean
+tobacco_users,Both sexes,EMR,2005,78884000,Eastern Mediterranean
+tobacco_users,Both sexes,EMR,2007,81447000,Eastern Mediterranean
+tobacco_users,Both sexes,EMR,2010,84910000,Eastern Mediterranean
+tobacco_users,Both sexes,EMR,2015,89423000,Eastern Mediterranean
+tobacco_users,Both sexes,EMR,2020,93358000,Eastern Mediterranean
+tobacco_users,Both sexes,EMR,2022,95671000,Eastern Mediterranean
+tobacco_users,Both sexes,EMR,2023,96955000,Eastern Mediterranean
+tobacco_users,Both sexes,EMR,2024,98382000,Eastern Mediterranean
+tobacco_users,Both sexes,EMR,2025,99580000,Eastern Mediterranean
+tobacco_users,Both sexes,EMR,2030,106231000,Eastern Mediterranean
+tobacco_users,Men,EMR,2000,61744000,Eastern Mediterranean
+tobacco_users,Men,EMR,2005,67309000,Eastern Mediterranean
+tobacco_users,Men,EMR,2007,70103000,Eastern Mediterranean
+tobacco_users,Men,EMR,2010,73952000,Eastern Mediterranean
+tobacco_users,Men,EMR,2015,79067000,Eastern Mediterranean
+tobacco_users,Men,EMR,2020,83823000,Eastern Mediterranean
+tobacco_users,Men,EMR,2022,86292000,Eastern Mediterranean
+tobacco_users,Men,EMR,2023,87651000,Eastern Mediterranean
+tobacco_users,Men,EMR,2024,89125000,Eastern Mediterranean
+tobacco_users,Men,EMR,2025,90392000,Eastern Mediterranean
+tobacco_users,Men,EMR,2030,97273000,Eastern Mediterranean
+tobacco_users,Women,EMR,2000,12344000,Eastern Mediterranean
+tobacco_users,Women,EMR,2005,11575000,Eastern Mediterranean
+tobacco_users,Women,EMR,2007,11343000,Eastern Mediterranean
+tobacco_users,Women,EMR,2010,10958000,Eastern Mediterranean
+tobacco_users,Women,EMR,2015,10356000,Eastern Mediterranean
+tobacco_users,Women,EMR,2020,9534000,Eastern Mediterranean
+tobacco_users,Women,EMR,2022,9379000,Eastern Mediterranean
+tobacco_users,Women,EMR,2023,9304000,Eastern Mediterranean
+tobacco_users,Women,EMR,2024,9257000,Eastern Mediterranean
+tobacco_users,Women,EMR,2025,9188000,Eastern Mediterranean
+tobacco_users,Women,EMR,2030,8958000,Eastern Mediterranean
+tobacco_users,Both sexes,GLOBAL,2000,1378711000,World
+tobacco_users,Both sexes,GLOBAL,2005,1348899000,World
+tobacco_users,Both sexes,GLOBAL,2007,1335682000,World
+tobacco_users,Both sexes,GLOBAL,2010,1315493000,World
+tobacco_users,Both sexes,GLOBAL,2015,1278696000,World
+tobacco_users,Both sexes,GLOBAL,2020,1237310000,World
+tobacco_users,Both sexes,GLOBAL,2022,1219668000,World
+tobacco_users,Both sexes,GLOBAL,2023,1211109000,World
+tobacco_users,Both sexes,GLOBAL,2024,1202107000,World
+tobacco_users,Both sexes,GLOBAL,2025,1195790000,World
+tobacco_users,Both sexes,GLOBAL,2030,1153645000,World
+tobacco_users,Men,GLOBAL,2000,1037191000,World
+tobacco_users,Men,GLOBAL,2005,1040251000,World
+tobacco_users,Men,GLOBAL,2007,1039604000,World
+tobacco_users,Men,GLOBAL,2010,1038019000,World
+tobacco_users,Men,GLOBAL,2015,1028978000,World
+tobacco_users,Men,GLOBAL,2020,1013089000,World
+tobacco_users,Men,GLOBAL,2022,1005369000,World
+tobacco_users,Men,GLOBAL,2023,1001288000,World
+tobacco_users,Men,GLOBAL,2024,996525000,World
+tobacco_users,Men,GLOBAL,2025,994522000,World
+tobacco_users,Men,GLOBAL,2030,972082000,World
+tobacco_users,Women,GLOBAL,2000,341520000,World
+tobacco_users,Women,GLOBAL,2005,308648000,World
+tobacco_users,Women,GLOBAL,2007,296078000,World
+tobacco_users,Women,GLOBAL,2010,277474000,World
+tobacco_users,Women,GLOBAL,2015,249718000,World
+tobacco_users,Women,GLOBAL,2020,224222000,World
+tobacco_users,Women,GLOBAL,2022,214298000,World
+tobacco_users,Women,GLOBAL,2023,209821000,World
+tobacco_users,Women,GLOBAL,2024,205582000,World
+tobacco_users,Women,GLOBAL,2025,201268000,World
+tobacco_users,Women,GLOBAL,2030,181564000,World
+tobacco_users,Both sexes,LBN,2000,956000,Lebanon
+tobacco_users,Both sexes,LBN,2005,1164000,Lebanon
+tobacco_users,Both sexes,LBN,2007,1266000,Lebanon
+tobacco_users,Both sexes,LBN,2010,1407000,Lebanon
+tobacco_users,Both sexes,LBN,2015,1967000,Lebanon
+tobacco_users,Both sexes,LBN,2020,1807000,Lebanon
+tobacco_users,Both sexes,LBN,2022,1886000,Lebanon
+tobacco_users,Both sexes,LBN,2023,1934000,Lebanon
+tobacco_users,Both sexes,LBN,2024,1986000,Lebanon
+tobacco_users,Both sexes,LBN,2025,2039000,Lebanon
+tobacco_users,Both sexes,LBN,2030,2359000,Lebanon
+tobacco_users,Men,LBN,2000,547000,Lebanon
+tobacco_users,Men,LBN,2005,662000,Lebanon
+tobacco_users,Men,LBN,2007,724000,Lebanon
+tobacco_users,Men,LBN,2010,803000,Lebanon
+tobacco_users,Men,LBN,2015,1118000,Lebanon
+tobacco_users,Men,LBN,2020,988000,Lebanon
+tobacco_users,Men,LBN,2022,1030000,Lebanon
+tobacco_users,Men,LBN,2023,1058000,Lebanon
+tobacco_users,Men,LBN,2024,1087000,Lebanon
+tobacco_users,Men,LBN,2025,1118000,Lebanon
+tobacco_users,Men,LBN,2030,1299000,Lebanon
+tobacco_users,Women,LBN,2000,410000,Lebanon
+tobacco_users,Women,LBN,2005,502000,Lebanon
+tobacco_users,Women,LBN,2007,542000,Lebanon
+tobacco_users,Women,LBN,2010,604000,Lebanon
+tobacco_users,Women,LBN,2015,849000,Lebanon
+tobacco_users,Women,LBN,2020,819000,Lebanon
+tobacco_users,Women,LBN,2022,856000,Lebanon
+tobacco_users,Women,LBN,2023,876000,Lebanon
+tobacco_users,Women,LBN,2024,899000,Lebanon
+tobacco_users,Women,LBN,2025,921000,Lebanon
+tobacco_users,Women,LBN,2030,1060000,Lebanon
