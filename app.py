@@ -15,7 +15,7 @@ import streamlit as st
 
 # ----------------------------------------------------------------------------- settings
 SURVEY_URL = "https://forms.gle/YQS6sq1ipWaTChR29"   # paste the Google Form link here; the button appears automatically
-BLOG_URL = ""     # paste the blog post link here
+BLOG_URL = "https://sites.aub.edu.lb/datavisualization/2026/11/05/lebanon-is-smoking-against-the-tide/"     # paste the blog post link here
 
 DATA = Path(__file__).parent / "data"
 LEB, WORLD, OTHER, CONTEXT = "#eb6834", "#2a78d6", "#8f8d86", "#d6d4cd"
