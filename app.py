@@ -14,7 +14,7 @@ import plotly.graph_objects as go
 import streamlit as st
 
 # ----------------------------------------------------------------------------- settings
-SURVEY_URL = ""   # paste the Google Form link here; the button appears automatically
+SURVEY_URL = "https://forms.gle/YQS6sq1ipWaTChR29"   # paste the Google Form link here; the button appears automatically
 BLOG_URL = ""     # paste the blog post link here
 
 DATA = Path(__file__).parent / "data"
